@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 100%;
+    margin: 20vh auto;
+}
+
+.mainDiv {
+    width: 80%;
+    margin: auto;
+    height: 50vh;
+    background-color: black;
+}
+
+.main {
+    width: 80%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+
+    div {
+        width: 100px;
+        height: 100px;
+        margin-top: 2vh;
+    }
+
+}
+
+.navy {
+    background-color: navy;
+}
+
+.green {
+    background-color: green;
+}
+
+.red {
+    background-color: red;
+}
+
+.gray {
+    background-color: gray;
+}
